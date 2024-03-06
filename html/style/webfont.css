@@ -1,0 +1,7 @@
+@font-face {
+    font-family: 'Segoe UI';
+    src: local(※),
+     url(/final/webfont/segoeui.ttf) format('truetype'), 
+     url(/final/webfont/segoeui.eot?#iefix), 
+     url(/final/webfont/segoeui.woff);
+}
